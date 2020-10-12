@@ -1,0 +1,50 @@
+.iconfont {
+    padding-right: 8px;
+}
+
+.layui-icon {
+    padding-right: 8px;
+    padding-left: 20px;
+}
+
+.layui-footer {
+    text-align: center;
+    font-size: 12px;
+}
+
+.layui-body {
+    overflow: hidden;
+}
+
+iframe {
+    width: 100%;
+    height: 100%;
+}
+
+.layui-side-scroll {
+    width: 200px;
+}
+
+.layui-side-scroll .userInfo {
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+}
+
+.textAvatar {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    border-radius: 50%;
+    font-size: 20px;
+    background-color: #009688;
+    vertical-align: middle;
+    color: #fff;
+}
+
+.layui-nav-img {
+    width: 40px;
+    height: 40px;
+}
